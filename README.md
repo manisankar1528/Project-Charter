@@ -1,5 +1,5 @@
 # Project-Charter
-## Project Title: UConn Student Retention Rate Analysis
+**Project Title**: UConn Student Retention Rate Analysis
 ## Problem Statement: The need to improve the enrollment, attrition, and graduation rate of UConn’s undergraduate program.
 ## Business Case: Improving these rates will result in a more competent workforce, many of whom might remain in Connecticut, and better prepare students for graduate school.
 ## Scope: The project will recommend better services for students to assist with academics, career guidance, and networking for graduating students, and suggest that the school offer mental health services.
